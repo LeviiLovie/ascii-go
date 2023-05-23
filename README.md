@@ -1,2 +1,2 @@
-# ascii-go
+# asciigo
 ASCII windows for golang
